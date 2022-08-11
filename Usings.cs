@@ -1,0 +1,15 @@
+global using NUnit.Framework;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using System;
+global using System.Threading;
+global using OpenQA.Selenium.Support.UI;
+global using System.Collections.Generic;
+global using System.Text;
+global using SeleniumExtras.PageObjects;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using TechnicalTask1.PageObjects;
+global using System.Configuration;
+global using AventStack.ExtentReports;
+global using AventStack.ExtentReports.Reporter;
