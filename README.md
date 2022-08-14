@@ -1,13 +1,14 @@
 # AhoyTechAsssesment
 Technical Assessment tasks for Ahoy
 
-Web Application:
+Web Application:[ZIP folder]
 
 Technology:
 Visual Studio 2019
 Nunit Selenium C#
 
 Deliverables:
+
 1. structure of the project:
 Dependencies - downloaded and installed from nuget package manager as required.
 PageObjects folder - contains page objects for tests
@@ -24,3 +25,11 @@ ConfigFile folder - contains App.config from where values can be fetched[used in
 PageObjects folder - contains page objects for tests[Used in 'Test1' test]
 
 5.Video of the tests execution - link in the zip folder.
+
+
+Mobile Application: [MobileApp folder]
+Technology - Appium
+C#
+
+1. code
+2.recording 
