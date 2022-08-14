@@ -27,7 +27,7 @@ PageObjects folder - contains page objects for tests[Used in 'Test1' test]
 5.Video of the tests execution - link in the zip folder.
 
 
-Mobile Application: [MobileApp folder]
+Mobile Application: [MobileApp folder] 
 Technology - Appium
 C#
 
